@@ -13,11 +13,23 @@ h1 {
     -webkit-text-fill-color: transparent;
     text-align: center;
   }
-.archi{
-padding: 20px 40px;
-text-allign:content: '\e82a'; 
+  
+.img{
+    width: 20%;
+}
+#vert{
+ height: 10px;
+ /*text-align: right;*/
+ margin-top:-20%;
+ padding: 20px;
+ margin-left: 30%;
+   
 
 }
-img{
-    width: 50%;
+.Archi{
+    padding-bottom: 20%;
+}
+.archi1{
+    width: 10%;
+    
 }
